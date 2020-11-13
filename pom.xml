@@ -82,18 +82,18 @@
     </build>
 	
 	<!--第三方maven私服-->
-	<repositories>
-	  <repository>
-	    <id>nexus-aliyun</id>
-	    <name>Nexus aliyun</name>
-	    <url>https://maven.aliyun.com/nexus/content/groups/public</url>
-	    <releases>
-	      <enabled>true</enabled>
-	    </releases>
-	    <snapshots>
-	      <enabled>false</enabled>
-	    </snapshots>
-	  </repository>
-	</repositories>
+<!--	<repositories>-->
+<!--	  <repository>-->
+<!--	    <id>nexus-aliyun</id>-->
+<!--	    <name>Nexus aliyun</name>-->
+<!--	    <url>https://maven.aliyun.com/nexus/content/groups/public</url>-->
+<!--	    <releases>-->
+<!--	      <enabled>true</enabled>-->
+<!--	    </releases>-->
+<!--	    <snapshots>-->
+<!--	      <enabled>false</enabled>-->
+<!--	    </snapshots>-->
+<!--	  </repository>-->
+<!--	</repositories>-->
 
 </project>

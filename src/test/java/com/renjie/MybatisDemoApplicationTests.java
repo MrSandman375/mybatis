@@ -111,7 +111,7 @@ class MybatisDemoApplicationTests {
         //这里是根据id删除。批量删除，条件删除请参照上面的查询
 //        userMapper.deleteById(1326696782256881669L);
         //逻辑删除
-        userMapper.deleteById(1L);
+        userMapper.deleteById(4L);
     }
 
 }
